@@ -1,7 +1,8 @@
+#QQbubbleWithSwift
 
 模仿QQ聊天气泡的拖拽效果的swift版本
 
-Usage
+#Usage
 
         bubbleView.viscosity = 30   //        粘性
         bubbleView.bubbleWidth = 35         //        宽度
